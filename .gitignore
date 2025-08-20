@@ -1,0 +1,29 @@
+# Ignore config with credentials
+config/config.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Spark temporary files
+derby.log
+metastore_db/
+spark-warehouse/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
