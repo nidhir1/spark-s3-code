@@ -6,7 +6,7 @@ MINIO_SECRET_KEY = "admin12345"
 
 
 # Postgres
-POSTGRES_URL = "jdbc:postgresql://postgres:5432/tinitiate"
+POSTGRES_URL = "jdbc:postgresql://localhost:5432/postgres"
 POSTGRES_USER = "tinitiate"
 POSTGRES_PASSWORD = "Tinitiate!23456"
 POSTGRES_DRIVER = "org.postgresql.Driver"
