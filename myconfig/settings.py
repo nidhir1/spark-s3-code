@@ -10,6 +10,6 @@ POSTGRES_URL = "jdbc:postgresql://localhost:5432/postgres"
 POSTGRES_USER = "postgres"
 POSTGRES_PASSWORD = "postgres"
 POSTGRES_DRIVER = "org.postgresql.Driver"
-POSTGRES_HOST="localhost"
+POSTGRES_HOST="postgres"
 POSTGRES_PORT=5432
 POSTGRES_DB="mydb"
