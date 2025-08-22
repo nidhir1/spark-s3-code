@@ -5,8 +5,9 @@ MINIO_ACCESS_KEY = "admin"
 MINIO_SECRET_KEY = "admin12345"
 
 
+
 # Postgres
-POSTGRES_URL = "jdbc:postgresql://localhost:5432/postgres"
+POSTGRES_URL = "jdbc:postgresql://postgres:5432/postgres"
 POSTGRES_USER = "postgres"
 POSTGRES_PASSWORD = "postgres"
 POSTGRES_DRIVER = "org.postgresql.Driver"
