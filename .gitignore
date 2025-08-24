@@ -1,5 +1,5 @@
 # Ignore config with credentials
-config/config.py
+myconfig/settings.py
 
 # Python cache
 __pycache__/
